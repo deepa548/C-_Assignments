@@ -1,0 +1,7 @@
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\301250548Lab2\bin\Debug\301250548Lab2.exe.config
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\301250548Lab2\bin\Debug\301250548Lab2.exe
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\301250548Lab2\bin\Debug\301250548Lab2.pdb
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\301250548Lab2\obj\Debug\301250548Lab2.csproj.AssemblyReference.cache
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\301250548Lab2\obj\Debug\301250548Lab2.csproj.CoreCompileInputs.cache
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\301250548Lab2\obj\Debug\301250548Lab2.exe
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\301250548Lab2\obj\Debug\301250548Lab2.pdb

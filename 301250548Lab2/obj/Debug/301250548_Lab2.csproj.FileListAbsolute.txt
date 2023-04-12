@@ -1,0 +1,7 @@
+C:\Users\deepa\source\repos\301250548_Lab2\bin\Debug\301250548_Lab2.exe.config
+C:\Users\deepa\source\repos\301250548_Lab2\bin\Debug\301250548_Lab2.exe
+C:\Users\deepa\source\repos\301250548_Lab2\bin\Debug\301250548_Lab2.pdb
+C:\Users\deepa\source\repos\301250548_Lab2\obj\Debug\301250548_Lab2.csproj.AssemblyReference.cache
+C:\Users\deepa\source\repos\301250548_Lab2\obj\Debug\301250548_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\deepa\source\repos\301250548_Lab2\obj\Debug\301250548_Lab2.exe
+C:\Users\deepa\source\repos\301250548_Lab2\obj\Debug\301250548_Lab2.pdb

@@ -1,0 +1,7 @@
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\Lab1-TicketPriceCal-301250548\bin\Debug\Lab1-TicketPriceCal-301250548.exe.config
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\Lab1-TicketPriceCal-301250548\bin\Debug\Lab1-TicketPriceCal-301250548.exe
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\Lab1-TicketPriceCal-301250548\bin\Debug\Lab1-TicketPriceCal-301250548.pdb
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\Lab1-TicketPriceCal-301250548\obj\Debug\Lab1-TicketPriceCal-301250548.csproj.AssemblyReference.cache
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\Lab1-TicketPriceCal-301250548\obj\Debug\Lab1-TicketPriceCal-301250548.csproj.CoreCompileInputs.cache
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\Lab1-TicketPriceCal-301250548\obj\Debug\Lab1-TicketPriceCal-301250548.exe
+C:\HI_Course\SEM1\COMP100\Assignments\Assignment-2\Lab1-TicketPriceCal-301250548\obj\Debug\Lab1-TicketPriceCal-301250548.pdb

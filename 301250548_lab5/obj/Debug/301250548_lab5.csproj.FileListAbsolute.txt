@@ -1,0 +1,7 @@
+C:\HI_Course\SEM1\COMP100\Assignments\301250548_lab5\bin\Debug\301250548_lab5.exe.config
+C:\HI_Course\SEM1\COMP100\Assignments\301250548_lab5\bin\Debug\301250548_lab5.exe
+C:\HI_Course\SEM1\COMP100\Assignments\301250548_lab5\bin\Debug\301250548_lab5.pdb
+C:\HI_Course\SEM1\COMP100\Assignments\301250548_lab5\obj\Debug\301250548_lab5.csproj.AssemblyReference.cache
+C:\HI_Course\SEM1\COMP100\Assignments\301250548_lab5\obj\Debug\301250548_lab5.csproj.CoreCompileInputs.cache
+C:\HI_Course\SEM1\COMP100\Assignments\301250548_lab5\obj\Debug\301250548_lab5.exe
+C:\HI_Course\SEM1\COMP100\Assignments\301250548_lab5\obj\Debug\301250548_lab5.pdb
